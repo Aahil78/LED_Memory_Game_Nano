@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/6e46e15e-fe6b-4ae6-a1a1-a7f3514cc424
 Day 1, Log 2 --- After my brainstorming and a loong break, I added all my final components to my schematic and routed those too. I thought of the PCB Layout too and came up with an idea.
 
 ## Tue May 13 2025 17:49:27 GMT+0000
-
+https://github.com/user-attachments/assets/c51fe556-855b-412e-b04d-bd3921c337f6
 
 Day 2 --- Today I finalized my schematic and started my PCB, assiggned footprints, and started placing them according to my idea layout.
 
