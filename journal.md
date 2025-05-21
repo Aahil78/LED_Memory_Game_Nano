@@ -9,31 +9,39 @@ Created at: "2025-05-12"
 https://github.com/user-attachments/assets/3a849660-60fd-400a-b150-f533264552a7
 
 Today I added some symbols like LEDs, Buttons, Resistors, the Arduino, and Buzzer to my schematic. I created net labels and started the wiring. I also brainstormed on the rest of my features and came up with a plan.
----
+
 Time Worked: 31mins
+
 ---
 
-## Monday, May 12, 2025 - 18:16:06 - Worked for 0.77 Hours
 
-
-## 5/12/2025 Log 2: Schematic completed!!
+## 5/12/2025 Log 2: Halfway there!!
 https://github.com/user-attachments/assets/6e46e15e-fe6b-4ae6-a1a1-a7f3514cc424
 
-After my brainstorming and a loong break, I added all my final components to my schematic and routed those too. I thought of the PCB Layout too and came up with an idea.
----
+After my brainstorming and a loong break, I added all my final components to my schematic and wired those too. I thought of the PCB Layout too and came up with an idea.
+
 Time Worked: 1hr 17mins
+
 ---
 
-## Tue May 13 2025 17:49:27 GMT+0000 - Worked for 0.64 Hours
+
+## 5/13/2025 Log 3: PCB Speedrunning Time, yayy!
 https://github.com/user-attachments/assets/c51fe556-855b-412e-b04d-bd3921c337f6
 
-Day 2 --- Today I finalized my schematic and started my PCB, assiggned footprints, and started placing them according to my idea layout.
+Today I finalized my schematic and started my PCB, assiggned footprints, and started placing them according to my idea layout.
+
+Time Worked: 1hr 4mins
+
 ---
 
-## Fri May 16 2025 14:59:51 GMT+0000 - Worked for 0.79 Hours
+
+## 5/16/2025 Log 4: FINISHEDDDD!!!!
 https://github.com/user-attachments/assets/89f49a14-93c5-45c5-82a5-db46f538ad68
 
-Day 3 --- Today I finally finished my whole PCB with routing and everything. I also added some HC Art. and a JST Connector for a bat, there's also a DC Barrel Jack if someone wants to connect a 9V Battery or power supply - idk who would connect a power supply to a portable device, but I still have an LDO just in case.
+Today I FINALLY finished my whole PCB with routing and everything. I also added some HC Art. and a JST Connector for a bat, there's also a DC Barrel Jack if someone wants to connect a 9V Battery or power supply - idk who would connect a power supply to a portable device lol, but I still have an LDO just in case.
+
+Time Worked: 1hr 19mins
+
 ---
 
 ## Total worked to finish project designing: 2hrs 30mins and 21secs
