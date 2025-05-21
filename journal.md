@@ -1,8 +1,8 @@
 ---
-title: "LED Memory Game Nano"
-author: "Aahil Irfan"
-description: "A LED Memory Game with a Arduino Nano, DC Barrel Jack, JST Connector, Buzzer/Vibration motor, and more!"
-created_at: "2025-05-12"
+Title: "LED Memory Game Nano"
+Author: "Aahil Irfan"
+Description: "A LED Memory Game with a Arduino Nano, DC Barrel Jack, JST Connector, Buzzer/Vibration motor, and more!"
+Created at: "2025-05-12"
 ---
 
 ## Monday, May 12, 2025 - 14:40:24 - Worked for 0.31 Hours
