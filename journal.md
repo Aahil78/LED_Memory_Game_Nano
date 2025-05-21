@@ -5,16 +5,23 @@ Description: "A LED Memory Game with a Arduino Nano, DC Barrel Jack, JST Connect
 Created at: "2025-05-12"
 ---
 
-## Monday, May 12, 2025 - 14:40:24 - Worked for 0.31 Hours
+## 5/12/2025 Log 1: Starting
 https://github.com/user-attachments/assets/3a849660-60fd-400a-b150-f533264552a7
 
-Day 1 --- Today I added some symbols like LEDs, Buttons, Resistors, the Arduino, and Buzzer to my schematic. I created net labels and started the wiring. I also brainstormed on the rest of my features and came up with a plan.
+Today I added some symbols like LEDs, Buttons, Resistors, the Arduino, and Buzzer to my schematic. I created net labels and started the wiring. I also brainstormed on the rest of my features and came up with a plan.
+---
+Time Worked: 31mins
 ---
 
 ## Monday, May 12, 2025 - 18:16:06 - Worked for 0.77 Hours
+
+
+## 5/12/2025 Log 2: Schematic completed!!
 https://github.com/user-attachments/assets/6e46e15e-fe6b-4ae6-a1a1-a7f3514cc424
 
-Day 1, Log 2 --- After my brainstorming and a loong break, I added all my final components to my schematic and routed those too. I thought of the PCB Layout too and came up with an idea.
+After my brainstorming and a loong break, I added all my final components to my schematic and routed those too. I thought of the PCB Layout too and came up with an idea.
+---
+Time Worked: 1hr 17mins
 ---
 
 ## Tue May 13 2025 17:49:27 GMT+0000 - Worked for 0.64 Hours
