@@ -44,4 +44,4 @@ Time Worked: 1hr 19mins
 
 ---
 
-## Total worked to finish project designing: 2hrs 30mins and 21secs
+**Total worked to finish project designing: 2hrs 30mins and 21secs**
