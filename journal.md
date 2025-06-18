@@ -45,3 +45,8 @@ Time Worked: 1hr 19mins
 ---
 
 **Total worked to finish project designing: 2hrs 30mins and 21secs**
+
+# Assembly
+
+## June 18th: Ordering the PCB and Parts
+Hi! Today I ordered my PCB and Parts, well not actually today, I ordered my components yesterday and my PCB a few days ago. The components got too expensive due to MOQ and Multiples but I had a $50 LCSC Coupon thanks to OSHWLab Stars, but it wasn't activating for some reason so I had to add any 1 extra part in my cart for it to work. So idk why but I added some FPC connectors or smthn, its MOQ was 5 so yay I'm getting 5 connectors that I don't even know what to do with. So uhhh I can't post any screenshots for the order bc that'll leak my address lol.
